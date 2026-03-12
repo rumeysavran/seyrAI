@@ -1,0 +1,147 @@
+Create a professional, modern, and visually striking website for an artificial intelligence consulting company called "Seyr AI". 
+
+The company ideology: 
+- Empower businesses to make smarter decisions using AI. 
+- Transform internal workflows, document knowledge, and data analytics into actionable intelligence.
+- Combine technical excellence with practical, reliable, and scalable AI solutions.
+- Focus on innovation, trust, and measurable impact for clients.
+- Promote AI adoption responsibly and efficiently.
+
+Target audience: 
+Startups, mid-size companies, and enterprises looking to integrate AI solutions into operations.
+
+Design style: 
+- Eye-catching but professional
+- Dark/light theme with subtle gradients and abstract AI/neural network visuals
+- Modern, minimal typography
+- Subtle interactive animations (hover effects, scroll effects)
+- Clean layouts with whitespace and visual hierarchy
+- Professional yet approachable tone
+
+Services 
+  1. AI Chatbots & Conversational Agents: Intelligent bots trained on company knowledge for internal or customer use.
+  2. AI Workflow Automation: Streamline repetitive tasks across departments for efficiency and accuracy.
+  3. Document & Knowledge Analysis: Transform company documents into actionable insights.
+  4. Data Intelligence & Analytics: Predict trends, monitor KPIs, and improve decision-making with AI dashboards.
+  5. Custom Machine Learning Models: Tailored AI solutions solving your specific business challenges.
+  6. Generative AI Solutions: Automated content, reports, and documentation powered by AI.
+  7. AI Security & Compliance Consulting: Ensure AI systems are secure, compliant, and trustworthy.
+  8. AI Research & Prototyping: Rapid prototyping to explore cutting-edge AI ideas and solutions.
+  9. AI Training & Workshops: Educate teams and upskill employees for confident AI adoption.
+
+
+Create a visually striking, modern, and professional website for an artificial intelligence consulting company called "Seyr AI".
+
+The design should feel similar to cutting-edge AI startup websites: futuristic, minimal, and highly polished.
+
+STYLE
+- Dark modern tech aesthetic
+- Deep navy or black background
+- Electric blue and cyan accent colors
+- Clean minimal typography
+- Subtle glow effects
+- Smooth animations and transitions
+- Professional but eye-catching
+
+HERO SECTION
+The hero section should include an animated background behind the main text.
+
+The background animation should look like:
+- flowing neural network lines
+- moving particles or data nodes
+- abstract AI connections
+- subtle motion reacting to cursor movement
+
+The animation should feel dynamic but not distracting.
+
+Hero headline:
+"Seyr AI"
+
+Subheadline:
+"Intelligent Systems for Modern Businesses"
+
+Short description:
+"Seyr AI helps companies integrate artificial intelligence to automate workflows, analyze data, and build smarter systems."
+
+Primary call-to-action button:
+"Request Consultation"
+
+Secondary button:
+"Explore Services"
+
+SECTIONS
+
+1. SERVICES SECTION
+Include visual cards for each service with modern icons.
+
+Services:
+- AI Chatbots & Conversational Agents
+- AI Workflow Automation
+- Document & Knowledge Analysis
+- Data Intelligence & Analytics
+- Custom Machine Learning Models
+- Generative AI Solutions
+- AI Security & Compliance Consulting
+- AI Research & Prototyping
+- AI Training & Workshops
+
+Cards should have hover animations and subtle glow effects.
+
+2. WHY SEYR AI
+A section explaining the company philosophy:
+- Practical AI solutions
+- Reliable systems
+- Focus on business impact
+- Modern engineering approach
+
+Include simple animated graphics or icons.
+
+3. HOW WE WORK
+Three-step process with visual timeline:
+
+Step 1: Discover
+Understanding the client’s business and AI opportunities
+
+Step 2: Build
+Designing and developing custom AI systems
+
+Step 3: Deploy
+Integrating AI into the company’s operations
+
+4. TECHNOLOGY SECTION
+Show icons or logos representing modern AI technologies.
+
+5. CONTACT SECTION
+Modern contact form with:
+Name
+Company
+Email
+Project description
+
+Button:
+"Start Your AI Project"
+
+DESIGN DETAILS
+- Use modern sans-serif fonts
+- Include subtle scroll animations
+- Maintain lots of whitespace
+- Smooth section transitions
+- Responsive design for mobile and desktop
+
+Color palette:
+
+Primary accent: #1E5945 (deep tech green)
+Secondary accent: #2A7A63 (teal green)
+Highlight glow: #38BFA3 (mint glow)
+
+Background: #0B0F14 (deep dark)
+Section background: #0F1A1A
+Card background: #151C1C
+
+Primary text: #F2F5F7
+Secondary text: #9CA3AF
+Muted text: #6B7280
+
+Primary gradient: #1E5945 → #38BFA3
+
+The final result should feel like a premium AI startup website similar to top technology companies.
