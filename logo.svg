@@ -1,8 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 32" fill="none" aria-hidden="true">
-  <!-- Icon: central circle with 12 rays (sun) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130 32" fill="none" aria-hidden="true">
+  <!-- Icon: central circle with 12 rays (sun), vertically centered in 32px -->
   <g transform="translate(16, 16)" stroke="currentColor" stroke-linecap="round">
     <circle cx="0" cy="0" r="3.5" fill="currentColor"/>
-    <!-- 12 rays at 30° each -->
     <line x1="0" y1="-5" x2="0" y2="-11" stroke-width="1.1"/>
     <line x1="2.5" y1="-4.33" x2="4.33" y2="-7.5" stroke-width="1.1"/>
     <line x1="4.33" y1="-2.5" x2="7.5" y2="-4.33" stroke-width="1.1"/>
@@ -16,6 +15,6 @@
     <line x1="-4.33" y1="-2.5" x2="-7.5" y2="-4.33" stroke-width="1.1"/>
     <line x1="-2.5" y1="-4.33" x2="-4.33" y2="-7.5" stroke-width="1.1"/>
   </g>
-  <text x="36" y="20" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="18" font-weight="700" fill="currentColor" letter-spacing="-.02em">Seyr</text>
-  <text x="82" y="20" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="18" font-weight="500" fill="currentColor" letter-spacing="-.02em" opacity=".9">AI</text>
+  <!-- Text: single line, vertically centered (baseline ~22 for 18px in 32px height) -->
+  <text x="30" y="22" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="18" font-weight="700" fill="currentColor" letter-spacing="-.02em">Seyr<tspan font-weight="500" opacity=".9"> AI</tspan></text>
 </svg>
